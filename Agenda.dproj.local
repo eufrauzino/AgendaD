@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/05 15:48:52.000.232,=C:\Users\Jaque e Douglas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/05 15:49:56.000.345,C:\Users\Jaque e Douglas\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Jaque e Douglas\Desktop\Agenda\UnitPrincipal.pas</Transaction>
+    <Transaction>2022/06/05 15:49:56.000.345,C:\Users\Jaque e Douglas\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Jaque e Douglas\Desktop\Agenda\UnitPrincipal.dfm</Transaction>
+    <Transaction>2022/06/05 15:50:10.000.971,C:\Users\Jaque e Douglas\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Jaque e Douglas\Documents\Embarcadero\Studio\Projects\Agenda.dproj</Transaction>
+    <Transaction>2022/06/05 15:50:29.000.206,C:\Users\Jaque e Douglas\Documents\Embarcadero\Studio\Projects\Agenda.dproj=C:\Users\Jaque e Douglas\Desktop\Agenda\Agenda.dproj</Transaction>
+    <Transaction>2022/06/05 15:53:05.000.140,=C:\Users\Jaque e Douglas\Desktop\Agenda\Unit1.pas</Transaction>
+    <Transaction>2022/06/05 15:54:22.000.331,C:\Users\Jaque e Douglas\Desktop\Agenda\Unit1.pas=C:\Users\Jaque e Douglas\Desktop\Agenda\UnitDM.pas</Transaction>
+    <Transaction>2022/06/05 15:54:22.000.331,C:\Users\Jaque e Douglas\Desktop\Agenda\Unit1.dfm=C:\Users\Jaque e Douglas\Desktop\Agenda\UnitDM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
